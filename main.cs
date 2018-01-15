@@ -7,7 +7,7 @@ namespace Test
 	{
 		public static void Main(string[] Args)
 		{
-			int x=5;
+			int x=5;//
 			Console.WriteLine(x);
 		}
 	}
